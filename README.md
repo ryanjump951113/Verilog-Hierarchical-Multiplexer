@@ -12,6 +12,6 @@ This project demonstrates a hierarchical digital circuit design using Verilog HD
 ### Simulation Results
 The logic correctness of the structural design was verified through Quartus Vector Waveform File (VWF) simulation. 
 
-![Waveform Simulation](mux_simulation_result.png)
+![Waveform Simulation](mux_simulation_result.jpg)
 
 As shown in the waveform above, the output successfully matches the expected truth table across different selection signal combinations.
