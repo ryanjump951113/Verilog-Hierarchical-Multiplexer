@@ -3,7 +3,7 @@ module gate(
     input B,
     input C,
     input D,
-    output reg Y  // 這裡同時宣告為 output 和 reg
+    output reg Y  
 );
 
 always @(A,B,C,D)
